@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice</string>
+    <string name="speech_prompt">speech</string>
+    <string name="speech_not_supported">not support device</string>
+</resources>
